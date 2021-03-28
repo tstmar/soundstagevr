@@ -2,7 +2,7 @@
 echo ""
 echo "Compiling NativeCode.c..."
 
-C:\Users\Jim\AppData\Local\Android\Sdk\ndk\20.1.5948944\build\ndk-build.cmd NDK_PROJECT_PATH=. NDK_APPLICATION_MK=Application.mk $*
+J:/2020.3.1f1/Editor/Data/PlaybackEngines/AndroidPlayer/NDK/build/ndk-build.cmd NDK_PROJECT_PATH=. NDK_APPLICATION_MK=Application.mk $*
 mv libs/armeabi-v7a/libnative.so ..
 
 echo ""
