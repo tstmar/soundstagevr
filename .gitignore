@@ -274,3 +274,4 @@ MonoBleedingEdge/etc/mono/config
 MonoBleedingEdge/etc/mono/mconfig/config.xml
 UnityCrashHandler64.exe
 UnityPlayer.dll
+*.log
