@@ -5,8 +5,8 @@ fork from https://github.com/plaidpants/soundstagevr
 Upgrade to Unity 2020.3.22f1c1 and test with Oculus quest 2.
 
 Below is the original README.md
-
-= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+#
+#
 
 The original project is no longer actively developed or maintained.
 
